@@ -1,0 +1,11 @@
+# RUN `init_pln_drive.sh`
+[pln]
+type = drive
+root_folder_id = <the-folder-id> # /drive/folders/<the-folder-id>
+scope = drive.readonly
+token = {
+    "access_token": "the-access-token",
+    "token_type": "Bearer",
+    "refresh_token": "the-refresh-token",
+    "expiry": "1999-12-31T23:59:59Z"
+}
