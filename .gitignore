@@ -1,3 +1,5 @@
 drive/*
 !drive/.gitkeep
 .rclone.conf
+*rclone*
+.vscode
