@@ -3,3 +3,5 @@ drive/*
 .rclone.conf
 *rclone*
 .vscode
+models/*
+models
