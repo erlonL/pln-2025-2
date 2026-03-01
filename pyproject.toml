@@ -1,0 +1,12 @@
+[project]
+name = "pln-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.1",
+    "pip>=26.0.1",
+    "spacy>=3.8.11",
+    "torch>=2.10.0",
+]

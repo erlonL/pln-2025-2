@@ -5,3 +5,5 @@ drive/*
 .vscode
 models/*
 models
+__pycache__
+uv.lock
