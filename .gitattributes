@@ -1,1 +1,2 @@
 2026-03-09_datasets_especializados/proppy/proppy-3271522.zip filter=lfs diff=lfs merge=lfs -text
+2026-03-09_datasets_especializados/halt-prop/ filter=lfs diff=lfs merge=lfs -text
