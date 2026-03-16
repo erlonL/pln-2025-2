@@ -1,2 +1,7 @@
 2026-03-09_datasets_especializados/proppy/proppy-3271522.zip filter=lfs diff=lfs merge=lfs -text
 2026-03-09_datasets_especializados/halt-prop/ filter=lfs diff=lfs merge=lfs -text
+2026-03-16_dataset_fake_news/in/PolitiFact_fake_news_content.csv filter=lfs diff=lfs merge=lfs -text
+2026-03-16_dataset_fake_news/in/BuzzFeed_fake_news_content.csv filter=lfs diff=lfs merge=lfs -text
+2026-03-16_dataset_fake_news/in/central_de_fatos.csv filter=lfs diff=lfs merge=lfs -text
+2026-03-16_dataset_fake_news/in/FactPolCheckBr_com_texto.csv filter=lfs diff=lfs merge=lfs -text
+2026-03-16_dataset_fake_news/in/*.txt filter=lfs diff=lfs merge=lfs -text
